@@ -88,7 +88,7 @@ position: relative;
 
 a:hover{color:#b36735;}
 a:visited{color:#000000;}
-
+a:link{color: #000000;}
 .mainoverlay{
   position: relative;
   top:0;
