@@ -85,7 +85,9 @@ position: relative;
   z-index: 2;
   text-decoration: none;
 }
-
+#phoneFooter{
+  color: #ffffff;
+}
 a:hover{color:#b36735;}
 a:visited{color:#000000;}
 a:link{color: #000000;}
